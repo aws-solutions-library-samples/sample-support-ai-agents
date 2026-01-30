@@ -10,8 +10,6 @@ The following diagram illustrates an organizational structure with multiple AWS 
 
 ![ALT](img/OrgDeploymentArchitecture.png)
 
-The following diagram illustrates a multi-account structure with flexible AI agent orchestration. 
-
 ![ALT](img/OrgDeploymentArchitecture1.png)
 
 The architecture showcases modularity - you can add new agents or enhance existing ones without disrupting the overall flow. The implementation follows the [Agents as Tools](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/multi-agent/agents-as-tools/) architecture pattern from Strands.
